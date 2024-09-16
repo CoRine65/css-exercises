@@ -1,0 +1,20 @@
+
+
+.bgc{
+    background-color: rgb(240, 170, 203);
+    font-family: sans-serif;
+}
+
+.num3size{
+    font-size: 24px;
+}
+
+#fontcolor{
+    color: blue;
+    font-size: 36px;
+}
+
+#greenbg{
+    background-color: #2fff93;
+    font-weight: bold;
+}
